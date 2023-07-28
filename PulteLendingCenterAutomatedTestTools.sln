@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MouseMoveAndClickLibrary", "MouseMoveAndClickLibrary\MouseMoveAndClickLibrary.csproj", "{B5F52B3A-B637-41FB-AE3E-02435B1E6813}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PulteLendingCenterAutomatedTestRunner", "PulteLendingCenterAutomatedTestRunner\PulteLendingCenterAutomatedTestRunner.csproj", "{51A3DC9A-C098-4E3D-BC01-A451EB719470}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MouseMoverAndClicker", "MouseMoverAndClicker\MouseMoverAndClicker.csproj", "{B91A5C23-8263-4C5E-AB98-E79569B71F74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlcScheduledTestRunner", "PlcScheduledTestRunner\PlcScheduledTestRunner.csproj", "{D58CF2A5-B92C-4828-92C6-B46C52932877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Octopus|Any CPU = Octopus|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F52B3A-B637-41FB-AE3E-02435B1E6813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F52B3A-B637-41FB-AE3E-02435B1E6813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F52B3A-B637-41FB-AE3E-02435B1E6813}.Octopus|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F52B3A-B637-41FB-AE3E-02435B1E6813}.Octopus|Any CPU.Build.0 = Debug|Any CPU
+		{B5F52B3A-B637-41FB-AE3E-02435B1E6813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F52B3A-B637-41FB-AE3E-02435B1E6813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A3DC9A-C098-4E3D-BC01-A451EB719470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A3DC9A-C098-4E3D-BC01-A451EB719470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A3DC9A-C098-4E3D-BC01-A451EB719470}.Octopus|Any CPU.ActiveCfg = Octopus|Any CPU
+		{51A3DC9A-C098-4E3D-BC01-A451EB719470}.Octopus|Any CPU.Build.0 = Octopus|Any CPU
+		{51A3DC9A-C098-4E3D-BC01-A451EB719470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A3DC9A-C098-4E3D-BC01-A451EB719470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91A5C23-8263-4C5E-AB98-E79569B71F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91A5C23-8263-4C5E-AB98-E79569B71F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91A5C23-8263-4C5E-AB98-E79569B71F74}.Octopus|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91A5C23-8263-4C5E-AB98-E79569B71F74}.Octopus|Any CPU.Build.0 = Debug|Any CPU
+		{B91A5C23-8263-4C5E-AB98-E79569B71F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91A5C23-8263-4C5E-AB98-E79569B71F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58CF2A5-B92C-4828-92C6-B46C52932877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58CF2A5-B92C-4828-92C6-B46C52932877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58CF2A5-B92C-4828-92C6-B46C52932877}.Octopus|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58CF2A5-B92C-4828-92C6-B46C52932877}.Octopus|Any CPU.Build.0 = Debug|Any CPU
+		{D58CF2A5-B92C-4828-92C6-B46C52932877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58CF2A5-B92C-4828-92C6-B46C52932877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85F2A17A-E0D7-4619-B7C5-2CD0E7D52361}
+	EndGlobalSection
+EndGlobal

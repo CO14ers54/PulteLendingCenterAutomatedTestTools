@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PlcScheduledTestRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "NAVTEST DEV false"
+    }
+  }
+}

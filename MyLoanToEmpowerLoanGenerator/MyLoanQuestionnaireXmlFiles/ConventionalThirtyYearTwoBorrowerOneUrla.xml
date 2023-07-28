@@ -1,0 +1,53 @@
+﻿<Loan LastModifiedById="bdf383c6-5b29-42d4-b43d-ed4cce56410b" Source="Web" Timestamp="2021-04-15T13:45:04">
+	<Borrowers>
+		<Borrower BorrowerID="1" DateOfBirth="11/09/1974" ExternalCustomerID="PMC0-001-195" FirstName="HeyYou" LastName="DoNotModifyThisLoan" NameSuffix="" RelationshipToPrimaryBorrower="Self" Citizenship="US Citizen" MaritalStatus="Married" MiddleName=" " SSN="078-65-4656">
+			<AdditionalIncome />
+			<Addresses>
+				<Address Type="Residence" StreetAddress="100 Magnolia Lane" StreetAddress2="" City="San Antonio" State="TX" Country="USA" PostalCode="78201" Ownership="Own" YearsAtAddress="21.3" FromDate="01/01/2000" ToDate="" />
+			</Addresses>
+			<Contacts>
+				<Email Location="Home" EmailAddress="karen.cady@pulte.com" />
+				<Telephone Location="Mobile" TelephoneNumber="(720)987-6543" />
+			</Contacts>
+			<Declarations ComakerEndorser="false" Judgements="false" FedDelinquent="false" Lawsuit="false" PastDeedInLieu="false" PastPreForeclosureSale="false" Foreclosed="false" Bankrupt="false" FamilyRelationship="false" PriorityLienExists="false" NewMortgageOtherProperty="false" OtherNewCredit="false" DownPaymentBorrowed="false" IntendToOccupy="true" Ownership="false" />
+			<Employment>
+				<Employer Type="Current" EmployerId="b38ce5cb-8a2e-4fd7-b448-c321638dab1f" SelfEmployed="false" Name="Schwab" YearsOnJob="11.21" EmployedFrom="02/02/2010" EmployedTo="" StreetAddress="10 Main St" StreetAddress2="" City="San Antonio" State="TX" PostalCode="78201" MilitaryEmployment="false">
+					<Job Position="VP">
+						<Compensation Type="Salary" MonthlyAmount="3500" />
+					</Job>
+				</Employer>
+			</Employment>
+			<REOs />
+		</Borrower>
+		<Borrower BorrowerID="2" DateOfBirth="12/05/1980" ExternalCustomerID="PMC0-001-195" FirstName="Attention" LastName="DoNotModifyThisLoan" NameSuffix="" RelationshipToPrimaryBorrower="Spouse" Citizenship="US Citizen" MaritalStatus="Married" MiddleName="" SSN="978-56-5434">
+			<AdditionalIncome />
+			<Addresses>
+				<Address Type="Residence" StreetAddress="100 Magnolia Lane" StreetAddress2="" City="San Antonio" State="TX" Country="USA" PostalCode="78201" Ownership="Own" YearsAtAddress="21.3" FromDate="01/01/2000" ToDate="" />
+			</Addresses>
+			<Contacts>
+				<Email Location="Home" EmailAddress="karen.cady@pulte.com" />
+				<Telephone Location="Mobile" TelephoneNumber="(720)876-5432" />
+			</Contacts>
+			<Declarations ComakerEndorser="false" Judgements="false" FedDelinquent="false" Lawsuit="false" PastDeedInLieu="false" PastPreForeclosureSale="false" Foreclosed="false" Bankrupt="false" FamilyRelationship="false" PriorityLienExists="false" NewMortgageOtherProperty="false" OtherNewCredit="false" DownPaymentBorrowed="false" IntendToOccupy="true" Ownership="false" />
+			<Employment>
+				<Employer Type="Current" EmployerId="964563fa-dd04-4cd4-85f6-3799fe179bd0" SelfEmployed="false" Name="IBM" YearsOnJob="4.52" EmployedFrom="10/10/2016" EmployedTo="" StreetAddress="100 Magnolia Lane" StreetAddress2="" City="San Antonio" State="TX" PostalCode="78201" MilitaryEmployment="false">
+					<Job Position="Manager">
+						<Compensation Type="Salary" MonthlyAmount="2000" />
+					</Job>
+				</Employer>
+			</Employment>
+			<REOs />
+		</Borrower>
+	</Borrowers>
+	<Control URLAVersion="201907" />
+	<Customer CustomerID="PMC0-001-195">
+		<LoanPreferences CurrentElectronicDocumentDelivery="Y" OriginalElectronicDocumentDelivery="Y" />
+	</Customer>
+	<LoanApplication ApplicationChannel="Web" ApplicationStartDate="0001-01-01T00:00:00" ApplicationSubmitDate="2021-04-15T13:45:04" ConfirmationID="PMA010-067" SalesAgreementID="" AdditionalComments="" PreferredContactMethod="">
+		<LoanPreferredTypes>
+			<LoanPreferredType LoanType="conventional" />
+		</LoanPreferredTypes>
+	</LoanApplication>
+	<MortgageTerms OptInAuthorization="false" PulteEmployeeLoan="false" LoanPurpose="Purchase" DownPayment="75000" SalesPrice="375000" LoanAmount="252000" BaseLoanAmount="252000" ClosingDate="07/30/2021" />
+	<Property State="NV" City="" Community="4437" PulteProperty="true" />
+</Loan>
